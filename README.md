@@ -1,2 +1,6 @@
 # chatbox
-mat the location of earthquakes over the past 24 house
+This code builds a simple chatbot web app using Streamlit and Gemini 1.5 Flash model via LangChain.
+
+
+
+
